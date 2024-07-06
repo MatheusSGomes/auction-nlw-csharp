@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "we0YNKgEm7DJ29g/1xhKijAIAf8oonm2VER+0MXucfohjEod7cQ6sPZHkfA3dmbxu9ejkJ7nGzKirYroqahT9w==",
+  "success": true,
+  "projectFilePath": "/home/matheus/ESTUDOS/PROGRAMACAO/DOTNET/NLW/Auction/src/Auction.csproj",
+  "expectedPackageFiles": [
+    "/home/matheus/.nuget/packages/microsoft.aspnetcore.openapi/8.0.5/microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
+    "/home/matheus/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/matheus/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/matheus/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
